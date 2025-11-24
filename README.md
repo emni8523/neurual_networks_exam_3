@@ -1,2 +1,2 @@
 # neurual_networks_exam_3
-All code and communication is in the notebook. 
+All code and descriptions are in the notebook. 
